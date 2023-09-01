@@ -1,0 +1,10 @@
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+  background-color: #ff0000;
+  transition: background-color 1s;
+}
+
+div:hover {
+  background-color: #0000ff;
+}

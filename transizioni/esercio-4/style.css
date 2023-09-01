@@ -1,0 +1,12 @@
+div {
+  width: 150px;
+  aspect-ratio: 1 / 1;
+  background-color: #ffff00;
+  transition: width 1s, height 1s, background-color 1s;
+}
+
+div:hover {
+  width: 200px;
+  height: 200px;
+  background-color: #008000;
+}
