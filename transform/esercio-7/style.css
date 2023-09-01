@@ -1,0 +1,7 @@
+div {
+  width: 200px;
+  aspect-ratio: 1 / 1;
+  background-color: #ff00ff;
+  transform: rotate(60deg);
+  transform: scale(15);
+}

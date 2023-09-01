@@ -1,0 +1,6 @@
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+  background-color: #00ffff;
+  transform: rotate(45deg) skewX(20deg);
+}

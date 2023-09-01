@@ -1,0 +1,6 @@
+div {
+  width: 150px;
+  aspect-ratio: 1 / 1;
+  background-color: #ffff00;
+  transform: skewY(30deg);
+}
