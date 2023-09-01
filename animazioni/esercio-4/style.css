@@ -1,0 +1,20 @@
+div {
+  width: 150px;
+  aspect-ratio: 1 / 1;
+  background-color: #ffff00;
+  animation: changeSizeAndColor 2s infinite;
+}
+
+@keyframes changeSizeAndColor {
+  0% {
+    width: 150px;
+    background-color: #ffff00;
+  }
+  50% {
+    background-color: #008000;
+  }
+  100% {
+    width: 150px;
+    background-color: #ffff00;
+  }
+}

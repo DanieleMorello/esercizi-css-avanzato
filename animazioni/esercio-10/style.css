@@ -1,0 +1,24 @@
+div {
+  width: 200px;
+  aspect-ratio: 1 / 1;
+  background-color: #ffff00;
+}
+
+div:focus {
+  animation: changeSize 2s infinite;
+}
+
+@keyframes changeSize {
+  0% {
+    width: 200px;
+    aspect-ratio: 1 / 1;
+  }
+  50% {
+    width: 150px;
+    aspect-ratio: 1 / 1;
+  }
+  100% {
+    width: 200px;
+    aspect-ratio: 1 / 1;
+  }
+}

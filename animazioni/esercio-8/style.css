@@ -1,0 +1,20 @@
+div {
+  width: 150px;
+  aspect-ratio: 1 / 1;
+  background-color: #008000;
+}
+
+div:hover {
+  animation: changeSize 1s infinite;
+}
+
+@keyframes changeSize {
+  0% {
+    width: 150px;
+    height: 150px;
+  }
+  100% {
+    width: 200px;
+    height: 100px;
+  }
+}
