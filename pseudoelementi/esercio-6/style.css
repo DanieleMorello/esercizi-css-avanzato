@@ -1,0 +1,9 @@
+p::after {
+  content: "";
+  display: inline-block;
+  width: 1px;
+  height: 1em;
+  background-color: #000000;
+  margin-left: 5px;
+  vertical-align: middle;
+}

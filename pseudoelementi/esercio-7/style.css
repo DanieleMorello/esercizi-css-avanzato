@@ -1,0 +1,9 @@
+p::before {
+  content: "";
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background-color: #ffff00;
+  position: absolute;
+  z-index: -1;
+}
