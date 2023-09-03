@@ -1,0 +1,8 @@
+p span[type="evidenzia"]:first-of-type {
+  background-color: #ffff00;
+}
+
+p span:last-of-type {
+  color: #ffffff;
+  background-color: #000000;
+}

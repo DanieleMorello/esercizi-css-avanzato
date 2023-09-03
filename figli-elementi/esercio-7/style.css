@@ -1,0 +1,4 @@
+li:nth-child(3n) {
+  background-color: #0000ff;
+  padding: 1rem;
+}

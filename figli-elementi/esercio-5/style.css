@@ -1,0 +1,4 @@
+p span:first-of-type {
+  background-color: #ffff00;
+  padding: 1rem;
+}
