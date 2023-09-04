@@ -1,0 +1,7 @@
+:root {
+  --font-paragraph: 20px;
+}
+
+p {
+  font-size: var(--font-paragraph);
+}

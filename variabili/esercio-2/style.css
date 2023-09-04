@@ -1,0 +1,7 @@
+:root {
+  --color-paragreph: #ff0000;
+}
+
+p {
+  color: var(--color-paragreph);
+}

@@ -1,0 +1,13 @@
+:root {
+  --background-color-div: #ff0000;
+  --font-size-paragraph: 18px;
+}
+
+div {
+  background-color: var(--background-color-div);
+}
+
+p {
+  font-size: var(--font-size-paragraph);
+  padding: 5px;
+}

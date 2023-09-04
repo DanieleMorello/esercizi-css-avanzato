@@ -1,0 +1,12 @@
+:root {
+  --background-color-paragraph: #0000ff;
+  --font-size-paragraph: 18px;
+}
+
+p {
+  font-size: var(--font-size-paragraph);
+  background-color: var(--background-color-paragraph);
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}

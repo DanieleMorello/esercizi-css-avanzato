@@ -1,0 +1,8 @@
+:root {
+  --background-color-link-hover: #ff0000;
+}
+
+a:active {
+  background-color: var(--background-color-link-hover);
+  color: #ffffff;
+}

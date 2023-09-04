@@ -1,0 +1,10 @@
+:root {
+  --border-width: 2px;
+}
+
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+  background-color: #0000ff;
+  border: var(--border-width) solid;
+}

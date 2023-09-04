@@ -1,0 +1,15 @@
+:root {
+  --background-color-link: #0000ff;
+  --color-link: #ffffff;
+}
+
+a {
+  background-color: var(--background-color-link);
+  color: var(--color-link);
+  padding: 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

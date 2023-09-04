@@ -1,0 +1,10 @@
+:root {
+  --width-div: 200px;
+  --height-div: 150px;
+}
+
+div {
+  width: var(--width-div);
+  height: var(--height-div);
+  background-color: #0000ff;
+}

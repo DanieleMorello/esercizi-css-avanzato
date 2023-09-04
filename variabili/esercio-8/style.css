@@ -1,0 +1,9 @@
+:root {
+  --margin-paragraph: 10px;
+  --padding-paragraph: 6px;
+}
+
+p {
+  margin: var(--margin-paragraph);
+  padding: var(--padding-paragraph);
+}
