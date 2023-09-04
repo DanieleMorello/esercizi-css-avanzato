@@ -1,0 +1,12 @@
+ul {
+  width: 400px;
+  border: 1px solid;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  width: calc(20% - 4px); /* 4px di margine tra gli elementi */
+  text-align: center;
+  border: 1px solid;
+}

@@ -1,0 +1,8 @@
+div {
+  width: 400px;
+  height: 100px;
+  background-color: #00ffff;
+  margin-top: calc(
+    50vh - 50px
+  ); /* Metà dell'altezza della viewport (50vh) meno metà dell'altezza del div (50px) */
+}

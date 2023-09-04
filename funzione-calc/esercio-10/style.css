@@ -1,0 +1,7 @@
+div {
+  div {
+    width: calc(400px + 200px);
+    height: 200px;
+    background-color: lightyellow;
+  }
+}
